@@ -1,0 +1,51 @@
+    .body {
+        font-family: 'Nunito', sans-serif;
+        height: 100%;
+        width: 100%;
+    }
+    
+    * {
+        margin: 0px;
+        padding: 0px;
+    }
+    
+    .button {
+        width: 75px;
+        font-family: 'Nunito', sans-serif;
+        background-color: white;
+        font-size: 26px;
+        color: solid dodgerblue;
+        padding: 22px 27px 20px 23px;
+        margin: 4px 8px 2px 6px;
+        border: 2px solid black;
+        border-radius: 6px;
+        box-shadow: 1px 1px 1px 2px;
+        cursor: pointer;
+    }
+    
+    .btn {
+        color: aqua;
+    }
+    
+    
+    .row input {
+        font-family: Nunito, sans-serif;
+        font-size: 25px;
+        width: 323px;
+        margin: 7px;
+        padding: 13px 30px 2px 13px;
+        border: 3px solid black;
+        border-radius: 6px;
+        background-color: rgb(250, 240, 230);
+    }
+    
+    .rowup {
+        margin: 19px 17px 17px 25px;
+    }
+    .con{
+        background: rebeccapurple;
+        margin: 52px ;
+        padding: 12px;
+        box-shadow:12px;
+    }
+    
